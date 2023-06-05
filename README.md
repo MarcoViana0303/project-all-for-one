@@ -1,7 +1,7 @@
 
 # All for One
 
-Neste projeto, usei um banco de dados disponibilizado pela Trybe para revisar e consolidar todos os principais conceitos de SQL. O banco de dados utlizado foi o `Northwind`.
+Neste projeto, usei um banco de dados disponibilizado pela Trybe para revisar e consolidar todos os principais conceitos de SQL. O banco de dados utilizado foi o `Northwind`.
 
 Para isso, tive:
 
